@@ -15,3 +15,15 @@ ul {
 em {
 	border-bottom: 1px solid black;
 }
+
+.dirt {
+	color: grey;
+}
+
+.paper {
+	color: blue;
+}
+
+.glass {
+	color: green;
+}
