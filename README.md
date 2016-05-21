@@ -1,2 +1,7 @@
 # lapoubellemagique
-Magic Dump _ La Poubelle Magique
+
+MAGIC DUMP 
+
+La Poubelle Magique
+
+magicdump.github.io/lapoubellemagique
