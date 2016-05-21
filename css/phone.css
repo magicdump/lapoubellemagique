@@ -1,0 +1,62 @@
+.phone {
+  position: relative;
+  left: 40%;
+  background-color: black;
+  border: 2px solid #aaa;
+  border-radius: 30px;
+  height: 500px;
+  width: 300px;
+}
+
+.screen {
+  position: absolute;
+  top: 35px;
+  left: 10%;
+  height: 80%;
+  width: 80%;
+  background-color: white;
+  overflow: scroll;
+  z-index: 100;
+}
+
+.push {
+  position: absolute;
+  bottom: 15px;
+  left: 130px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background: linear-gradient(to right,#555 10%,#000 60%);
+}
+
+.carre {
+  width: 15px;
+  height: 15px;
+  border: 2px solid #888;
+  margin: 12px auto;
+  border-radius: 4px;
+}
+
+.reflets {
+  position: absolute;
+  top: 4px;
+  width: 99%;
+  height: 450px;
+  background: linear-gradient(70deg,transparent 65%,rgba(255,255,255,0.35) 66%,rgba(255,255,255,0) 100%);
+}
+
+.graphic {
+  width: 100%;
+}
+
+.ginette {
+  width: 30%;
+}
+
+.dumper {
+  font-size: 1em;
+}
+
+.trophy {
+  width: 30%;
+}
